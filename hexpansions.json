@@ -22,5 +22,12 @@
     "homepage": "https://github.com/tonygoacher/tildagon_soundtolight",
     "description": "Uses the Sparkfun sound detector to create cool sound to light effects on the tildagon badge LEDs!",
     "image_url": "TGSTL.png"
+  },
+  {
+    "maker": "James Smith",
+    "unique_name": "Interlocking Brick Hexpansions",
+    "homepage": "https://manyfold.floppy.org.uk/models/pqlm541tkf16",
+    "description": "Turn your Tildagon into a highly sophisticated interlocking brick system",
+    "image_url": "https://manyfold.floppy.org.uk/models/pqlm541tkf16/model_files/r8l6z7tqtf75.png?derivative=preview"
   }
 ]
